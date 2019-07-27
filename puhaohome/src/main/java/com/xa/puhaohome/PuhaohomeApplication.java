@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PuhaohomeApplication {
 
 	public static void main(String[] args) {
+
+
+		System.out.println("guanyucishis");
 		SpringApplication.run(PuhaohomeApplication.class, args);
 	}
 
